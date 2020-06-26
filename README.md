@@ -3,4 +3,4 @@
 
 # Following are links to assignment solutions
 
-- Mod 2 Assignment - [https://ahsansaleemmemon.github.io/coursera-test/mod2_solution/index.html](url)
+- Mod 2 Assignment - [https://ahsansaleemmemon.github.io/coursera-test/mod2_solution/](url)
