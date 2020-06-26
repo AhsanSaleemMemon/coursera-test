@@ -3,4 +3,4 @@
 
 # Following are links to assignment solutions
 
-- Mod 2 Assignment - [shorturl.at/cerxN](url)
+- Mod 2 Assignment - [https://shorturl.at/cerxN](url)
