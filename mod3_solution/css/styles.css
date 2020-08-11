@@ -1,1 +1,60 @@
+body {
+    font-size: 16px;
+    color: #fff;
+    background-color: #A33B20;
+    font-family: "Helvetica Neue", sans-serif;
+}
 
+#header-nav {
+    background-color: #27213C;
+    border-radius: 0;
+    border: 0;
+}
+
+.navbar-brand {
+    padding: 10px;
+}
+
+.container {
+    width: 100%;
+}
+
+.navbar-brand h1 {
+    font-family: Lora;
+    color: white;
+    font-size: 1.5em;
+    text-align: left;
+    text-transform: uppercase;
+    font-weight: bold;
+    text-shadow: 1px 1px 1px #222;
+    margin-top: 0;
+    margin-bottom: 0;
+    margin-left: 0;
+}
+
+#nav-list a {
+    text-align: center;
+    color: #7e8d85;
+}
+
+#nav-list a:hover {
+    background: #E7E7E7;
+}
+
+#main-content h2 {
+    font-family: Verdana, Tahoma, sans-serif;
+}
+
+.single-menu-tile {
+    margin: 10px;
+    background: #A4D4B4;
+    padding: 15px;
+}
+
+.single-menu-tile h3 {
+    color: #A33B20;
+}
+
+.single-menu-tile div {
+    color: #A33B20;
+}
