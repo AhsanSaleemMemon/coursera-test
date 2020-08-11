@@ -45,6 +45,15 @@ body {
     font-family: Verdana, Tahoma, sans-serif;
 }
 
+#back-to-top {
+    margin: 10px;
+    border: 1px solid black;
+}
+
+#back-to-top a {
+    color: blue;
+}
+
 .single-menu-tile {
     margin: 10px;
     background: #A4D4B4;
@@ -52,7 +61,8 @@ body {
 }
 
 .single-menu-tile h3 {
-    color: #A33B20;
+    color: #48284A;
+    font-weight: bold;
 }
 
 .single-menu-tile div {
